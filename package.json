@@ -1,0 +1,17 @@
+{
+  "name": "axios-tutorial",
+  "version": "1.0.0",
+  "description": "axios tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "abdulfrfr",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
